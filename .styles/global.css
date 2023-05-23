@@ -1,16 +1,8 @@
-<<<<<<< HEAD:.styles/global.css
 @import url(./backgroud.css);
 
 @import url(./header.css);
 
 @import url(./main.css);
-=======
-@import url(./styles/backgroud.css);
-
-@import url(./styles/header.css);
-
-@import url(./styles/main.css);
->>>>>>> eb8ede5306e84e82621714a4d64b091f8e8c93cb:styles/global.css
 
 * {
     margin: 0;
